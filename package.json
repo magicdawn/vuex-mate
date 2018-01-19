@@ -1,0 +1,32 @@
+{
+  "name": "vuex-mate",
+  "version": "0.0.1",
+  "description": "vuex helper library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test-cover": "istanbul cover _mocha -- -u exports",
+    "report-cover": "codecov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicdawn/vuex-mate.git"
+  },
+  "keywords": [
+    "vuex",
+    "helper"
+  ],
+  "author": "magicdawn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magicdawn/vuex-mate/issues"
+  },
+  "homepage": "https://github.com/magicdawn/vuex-mate#readme",
+  "devDependencies": {
+    "codecov": "^2.3.0",
+    "eslint": "^4.8.0",
+    "istanbul": "^1.1.0-alpha.1",
+    "mocha": "^3.5.3",
+    "should": "^13.1.0"
+  }
+}
