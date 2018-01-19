@@ -1,4 +1,6 @@
 # vuex-mate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/vuex-mate.svg)](https://greenkeeper.io/)
 > vuex helper library
 
 [![Build Status](https://img.shields.io/travis/magicdawn/vuex-mate.svg?style=flat-square)](https://travis-ci.org/magicdawn/vuex-mate)
